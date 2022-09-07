@@ -1,3 +1,2 @@
-# Laura-Geronimo.github.io
-#Test
-##Want to build a website
+#Laura Geronimo
+##PhD Candidate - Bloustein 
